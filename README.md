@@ -1,5 +1,7 @@
 # Climate Data Analysis - Europe
 
+![image](RMimage.png)
+
 ## Overview
 This repository contains an analysis of climate data for Europe from the years 1980 to 2019. The analysis aims to explore and visualize temperature trends and seasonal changes in the region. 
 
